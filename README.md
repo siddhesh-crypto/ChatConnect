@@ -27,7 +27,7 @@ Clone the repository:
 
 bash
 Copy code
-git clone https://github.com/yourusername/ChatConnect.git
+git clone https://github.com/siddhesh-crypto/ChatConnect.git
 cd ChatConnect
 Install dependencies:
 
